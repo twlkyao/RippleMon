@@ -13,7 +13,7 @@ Do not hesitate to contribute and/or to report bugs ;)
 
 
 #########
-# HOWTO #
+# Howto #
 #########
 
 Monitor offers
@@ -55,7 +55,7 @@ $ python monitor-trustsets.py wss://s1.ripple.com:51233/
 You need python and websocket-client installed ;)
 
 ########
-# BUGS #
+# Bugs #
 ########
 
 Known bugs

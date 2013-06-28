@@ -57,4 +57,9 @@ Known bugs
 
     Fatal bug in the SSL part of the websocket-client library? (reported)
     [Errno 8] _ssl.c:1359: EOF occurred in violation of protocol
+    
+Donation
+========
+
+My public address: rKjGXUc8uyY8FCkMXdqfDNVeJFnJVqabkw
 

@@ -5,10 +5,10 @@ Three tools to monitor Ripple transactions.<br />
 You can monitor offers, payments, and trustsets.<br />
 
 That's a first draft ;)<br />
-I will try to merge the 3 scripts to have only one tool ;)
+I will try to merge the 3 scripts to have only one tool ;)<br />
 
-The code is not really cleaned and may be buggy!
-Do not hesitate to contribute and/or to report bugs ;)
+The code is not really cleaned and may be buggy!<br />
+Do not hesitate to contribute and/or to report bugs ;)<br />
 
 
 

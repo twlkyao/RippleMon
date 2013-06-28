@@ -1,9 +1,9 @@
 About
 =====
 
-Three tools to monitor Ripple transactions. You can monitor offers, payments, and trustsets.
-That's a first draft ;) I will try to merge the 3 scripts to have only one tool ;)
-The code is not really cleaned and may be buggy! Do not hesitate to contribute and/or to report bugs ;)
+Three tools to monitor Ripple transactions. You can monitor offers, payments, and trustsets.<br />
+That's a first draft ;) I will try to merge the 3 scripts to have only one tool ;)<br />
+The code is not really cleaned and may be buggy! Do not hesitate to contribute and/or to report bugs ;)<br />
 
 Howto
 =====
@@ -53,6 +53,6 @@ Bugs
 Known bugs
 ----------
 
-Fatal bug in the SSL part of the websocket-client library? (reported)
-[Errno 8] _ssl.c:1359: EOF occurred in violation of protocol
+    Fatal bug in the SSL part of the websocket-client library? (reported)
+    [Errno 8] _ssl.c:1359: EOF occurred in violation of protocol
 

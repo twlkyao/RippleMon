@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+""" Tool to monitor payments """
+
 from __future__ import division
 
 import datetime
@@ -9,11 +11,8 @@ import sys
 import time
 import websocket
 
-""" Tool to monitor payments """
-
 __author__      = "Hurukan"
 __copyright__   = "Copyright 2013, XRP Talk"
-
 
 ###########
 # Formats #

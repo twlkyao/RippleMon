@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+""" Tool to monitor offers """
+
 from __future__ import division
 
 import datetime
@@ -11,11 +13,8 @@ import thread
 import time
 import websocket
 
-""" Tool to monitor offers """
-
 __author__      = "Hurukan"
 __copyright__   = "Copyright 2013, XRP Talk"
-
 
 ###########
 # Formats # 

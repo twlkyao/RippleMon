@@ -16,6 +16,7 @@ import websocket
 __author__      = "Hurukan"
 __copyright__   = "Copyright 2013, XRP Talk"
 
+
 ###########
 # Formats # 
 ###########

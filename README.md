@@ -1,8 +1,8 @@
 About
 =====
 
-Three tools to monitor Ripple transactions (offers, payments, and trustsets).
-That's a first draft, I will try to merge the 3 scripts to have only one tool ;)
+Three tools to monitor Ripple transactions (offers, payments, and trustsets).<br />
+That's a first draft, I will try to merge the 3 scripts to have only one tool ;)<br />
 
 The code is not really cleaned and may be buggy!<br />
 Do not hesitate to contribute and/or to report bugs ;)<br />

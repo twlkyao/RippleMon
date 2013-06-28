@@ -1,6 +1,5 @@
-#########
-# About #
-#########
+About
+=====
 
 Three tools to monitor Ripple transactions.
 You can monitor offers, payments, and trustsets.
@@ -12,9 +11,9 @@ The code is not really cleaned and may be buggy!
 Do not hesitate to contribute and/or to report bugs ;)
 
 
-#########
-# Howto #
-#########
+
+Howto
+=====
 
 Monitor offers
 --------------
@@ -54,9 +53,9 @@ $ python monitor-trustsets.py wss://s1.ripple.com:51233/
 
 You need python and websocket-client installed ;)
 
-########
-# Bugs #
-########
+
+Bugs
+====
 
 Known bugs
 ----------
